@@ -1,4 +1,4 @@
-STOCK MARKET PREDICTION
+# Stock Market Prediction
 
 The following project is predicting prices (Closing prices) of a particular company for next 5 days.
 
